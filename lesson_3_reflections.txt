@@ -14,3 +14,7 @@ Describe the differences between forks, clones, and branches. When would you use
 -Fork when looking to adapt someone else's code in a new way
 -Clone when wanting to work on your own computer
 -Branch when trying a new feature or exp ideas
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+-It means you can see and consider that branches changes without having to merge files at that time
