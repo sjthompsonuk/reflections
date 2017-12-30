@@ -8,3 +8,9 @@ Why might you want to always pull changes manually rather than having Git automa
 
 -If work has been separated out into work-streams/branches in a collaborative way
 -If many people are working on the same branch you may wish to discuss/decide about consciously merging files
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+-Fork when looking to adapt someone else's code in a new way
+-Clone when wanting to work on your own computer
+-Branch when trying a new feature or exp ideas
