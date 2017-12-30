@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+-For collaborative work
+-If using multiple machines
+-To allow live viewing/access to the code for feedback purposes
