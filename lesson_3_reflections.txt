@@ -25,3 +25,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 -Google Docs (easier basic use...much harder for complex changes and concurrent work)
 -Emailed updated files with descriptions
 -Otherwise harder to monitor/track changes and ensure work wasn't lost or corrupted
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When working on a single component or function within a larger project
