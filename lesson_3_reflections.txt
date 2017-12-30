@@ -3,3 +3,8 @@ When would you want to use a remote repository rather than keeping all your work
 -For collaborative work
 -If using multiple machines
 -To allow live viewing/access to the code for feedback purposes
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+-If work has been separated out into work-streams/branches in a collaborative way
+-If many people are working on the same branch you may wish to discuss/decide about consciously merging files
